@@ -1,0 +1,29 @@
+[
+    {
+      "naming": "Lovely Runner",
+      "id": "lovely-runner",
+      "img_url": "https://media.istockphoto.com/id/1488944909/photo/environment-concept-green-glass-globe-with-a-tree-in-the-forest-with-sunlight-sustainability.webp?b=1&s=170667a&w=0&k=20&c=f89zMjUr7FldJzgS0p8mJyuTxBWgvhv0kBQL7fcSnjs=",
+      "desc":"lorem gudq hdgsdgbj shgwu qwiu",
+      "rating":657
+   
+    },
+    {
+      "naming": "Stranger Things",
+      "id": "stranger-things",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9EeSJgtad5jWkky-iMisJi7UFWOUu2Cg2w&s",
+      "desc":"lorem gudq hdgsdgbj shgwu qwiu"
+     
+    },
+    {
+      "naming": "The Witcher",
+      "id": "the-witcher",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWI70ZPYdETxvAuaY8nOuvJT2N2h-GbIhI-JlnSyqIUi9Xz8wWGp1VZkVTOQMpur-LqjQ&usqp=CAU",
+      "desc":"lorem gudq hdgsdgbj shgwu qwiu"
+    },
+    {
+      "naming": "Money Heist",
+      "id": "money-heist",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWI70ZPYdETxvAuaY8nOuvJT2N2h-GbIhI-JlnSyqIUi9Xz8wWGp1VZkVTOQMpur-LqjQ&usqp=CAU",
+      "desc":"lorem gudq hdgsdgbj shgwu qwiu"
+    }
+  ]
